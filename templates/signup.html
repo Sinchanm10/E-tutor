@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Signup</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body class="auth-page">
+    <div class="translucent-box">
+        <div class="page-title">Signup</div>
+        <form id="signup-form" method="POST" action="/post">
+            <input type="text" name="name" placeholder="Full Name" class="auth-input" required>
+            <input type="email" name="email" placeholder="Email" class="auth-input" required>
+            <input type="password" id="password" name="password" placeholder="Password" class="auth-input" required>
+            <input type="password" id="confirm-password" placeholder="Confirm Password" class="auth-input" required>
+            <button type="submit">Signup</button>
+        </form>        
+        <a href="/login" class="auth-link">Already have an account? Login now</a>
+    </div>
+    <script src="/static/js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body class="auth-page">
+    <div class="translucent-box">
+        <div class="page-title">Login</div>
+        <form id="login-form" method="POST" action="/api/login">
+            <input type="email" name="email" placeholder="Email" class="auth-input" required>
+            <input type="password" name="password" placeholder="Password" class="auth-input" required>
+            <button type="submit">Login</button>
+        </form>        
+        <a href="/signup" class="auth-link">Don't have an account? Signup now</a>
+    </div>
+    <script src="/static/js/script.js"></script>
+</body>
+</html>
