@@ -95,7 +95,7 @@ Supports multi-agent future expansion for teacher dashboards and performance eva
 
 💻 Self-learners and independent study groups
 
-##📈 Future Scope
+## 📈 Future Scope
 Auto-generated quizzes and MCQs based on recent topics.
 
 Progress tracking dashboard for both students and teachers.
@@ -112,7 +112,9 @@ This project is licensed under the MIT License. See the License.md file for more
 ## 📬 Contact
 Built with ❤️ by Sinchan Mallick
 📧 Email: sinchanmallick631@gmail.com
+
 🌐 GitHub: @SinchanM10
+
 🔗 Portfolio: https://sinchanm10.netlify.app
 
 “The future of education is not digital—it’s intelligently personalized.”
