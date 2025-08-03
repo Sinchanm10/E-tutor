@@ -66,7 +66,7 @@ The goal of this project is to bridge the gap in education by providing **intell
 
 ---
 
-##🧪 Sample Prompts to Test the Agent
+## 🧪Sample Prompts to Test the Agent
 “Explain Newton's Third Law to a 6th-grade student.”
 
 “Generate 3 bullet points explaining the structure of an atom.”
@@ -75,7 +75,7 @@ The goal of this project is to bridge the gap in education by providing **intell
 
 “Summarize Ohm's Law in simple terms.”
 
-###🌟 WOW Factors
+### 🌟WOW Factors
 AI explains topics based on the user’s comprehension level.
 
 Generate concise, accurate academic notes in real-time.
@@ -86,7 +86,7 @@ Easily extendable to add quizzes, analytics, and gamification.
 
 Supports multi-agent future expansion for teacher dashboards and performance evaluation.
 
-## 👥 Target Users
+## 👥Target Users
 🎓 Students from grades 6–12
 
 🧑‍🏫 Educators who want automated note delivery
@@ -95,7 +95,7 @@ Supports multi-agent future expansion for teacher dashboards and performance eva
 
 💻 Self-learners and independent study groups
 
-## 📈 Future Scope
+## 📈Future Scope
 Auto-generated quizzes and MCQs based on recent topics.
 
 Progress tracking dashboard for both students and teachers.
@@ -106,15 +106,16 @@ Multilingual support for inclusivity and broader reach.
 
 Integration with LMS platforms like Moodle, Google Classroom.
 
-## 🧾 License
+## 🧾License
 This project is licensed under the MIT License. See the License.md file for more information.
 
-## 📬 Contact
+## 📬Contact
 Built with ❤️ by Sinchan Mallick
+<br>
 📧 Email: sinchanmallick631@gmail.com
-
+<br>
 🌐 GitHub: @SinchanM10
-
+<br>
 🔗 Portfolio: https://sinchanm10.netlify.app
 
 “The future of education is not digital—it’s intelligently personalized.”
