@@ -107,7 +107,7 @@ Multilingual support for inclusivity and broader reach.
 Integration with LMS platforms like Moodle, Google Classroom.
 
 ## 🧾 License
-This project is licensed under the MIT License. See the License.md file for more information.
+This project is licensed under the MIT License. See the <a href= "https://github.com/Sinchanm10/E-tutor/blob/master/LICENSE">License.md</a> file for more information.
 
 ## 📬 Contact
 Built with ❤️ by Sinchan Mallick
